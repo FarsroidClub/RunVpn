@@ -16,7 +16,7 @@
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
 "MessageID": "8741",
-"ShowTime": "2",
+"ShowTime": "3",
 "Button": " دریافت پروکسی مخصوص ",
 "ButtonCancell": "  ",
 "Closure": "true",
